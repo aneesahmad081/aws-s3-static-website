@@ -45,4 +45,15 @@ a bucket policy.
 - Web Content Deployment & Updates
 
 ## Live Website
-[View Live Website](http://my-portfolio-website-anees123.s3-website.eu-north-1.amazonaws.com/)
+[View Live Website](http://my-portfolio-website-anees123.s3-website.eu-north-1.amazonaws.com
+
+## Screenshots
+
+### Static Website Hosting Configuration
+![Static Hosting Config](s3-static-hosting-config.png)
+
+### Bucket Policy
+![Bucket Policy](s3-bucket-policy.png)
+
+### Live Website
+![Live Website](live-website-screenshot.png)
